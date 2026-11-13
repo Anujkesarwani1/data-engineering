@@ -1,6 +1,0 @@
--- This model is used to create a dimension table for food items.
-select
-f_id,
-food_name,
-veg_or_non_veg
-from {{ ref('stg_food') }}
