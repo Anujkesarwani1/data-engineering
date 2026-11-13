@@ -1,0 +1,4 @@
+{"timestamp":"2026-10-04T15:00:32.976387","level":"info","event":"DAG bundles loaded: dags-folder","logger":"airflow.dag_processing.bundles.manager.DagBundlesManager"}
+{"timestamp":"2026-10-04T15:00:32.976833","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/zomato_batch.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2026-10-04T15:00:33.000836","level":"error","event":"Task not found in DAG during start up","dag_id":"zomato_batch","task_id":"dbt_build_ai","bundle":"BundleInfo(name='dags-folder', version=None)","path":"zomato_batch.py","logger":"task"}
+{"timestamp":"2026-10-04T15:00:33.005511Z","level":"warning","event":"Process exited abnormally","exit_code":1,"logger":"task"}
