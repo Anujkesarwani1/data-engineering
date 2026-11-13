@@ -2,3 +2,7 @@
 /Zomato-Data-Engineering-Project/RAW Data/menu.csv
 /Zomato-Data-Engineering-Project/RAW Data/order_items.csv
 /Zomato-Data-Engineering-Project/RAW Data/orders.csv
+
+/Zomato-Data-Engineering-Project/ai/.env
+/Zomato-Data-Engineering-Project/airflow/.env
+/Zomato-Data-Engineering-Project/Creds.txt
